@@ -19,7 +19,7 @@ steps:
   displayName: 'Run a multi-line script'
 - task: metersphere@1
   inputs:
-    connection: 'test'
+    connection: 'http://dsdsdds'
     workspace: 'xx'
     project: 'xx'
     testPlan: 'xx'
